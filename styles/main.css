@@ -1,0 +1,105 @@
+.header-content-block .bloc{
+
+display: flex;
+  align-items: center;
+justify-content: space-around;
+  display: inline-block;
+  padding: 10px;
+width: 200px;
+
+}
+
+
+
+.header-content-block{
+  background-color: rgb(179,208,245);
+  padding: 10px;
+}
+
+.header-content-block{
+  display: inline-block;
+  width: 100%;
+  
+
+}
+
+
+
+.header-content-block h1{
+
+  width: 700px;
+  margin: 30px;
+  font-size: 2em;
+  font-family: 'Luckiest Guy', cursive;
+  color: #fff;
+}
+.header-content-block a{
+  display: inline-block;
+}
+
+.header-content-block h2{
+  margin: 40px;
+  margin-left: 100px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 150px;
+  background-color: #fff;
+  border-radius: 15px 15px 15px 15px;
+-moz-border-radius: 15px 15px 15px 15px;
+-webkit-border-radius: 15px 15px 15px 15px;
+border: 0px solid #fff;
+  font-size: 1.2em;
+  font-family: 'Quicksand', sans-serif;
+  color: rgb(179,208,245);
+  padding: 10px;
+
+}
+
+.fond-section img{
+  width: 100%;
+  margin: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1200px;
+  width: auto;
+}
+
+.choix-gauche {
+display: inline-block;
+  position:absolute;
+  display: flex;
+    align-items: center;
+  justify-content: space-around;
+    top:390px;
+    left:140px;
+
+}
+
+h3{
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 200px;
+  background-color: rgb(179,208,245);
+  border-radius: 15px 15px 15px 15px;
+-moz-border-radius: 15px 15px 15px 15px;
+-webkit-border-radius: 15px 15px 15px 15px;
+border: 0px solid #fff;
+margin-left: auto;
+margin-right: auto;
+  font-size: 1.2em;
+  font-family: 'Quicksand', sans-serif;
+  color: #fff;
+  padding: 10px;
+  width: 200px;
+
+}
+
+.solution{
+  margin-left: auto;
+  margin-right: auto;
+}
